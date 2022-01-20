@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annyzx
+- 👋 Hi, I’m Anny
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate with me
